@@ -4,7 +4,7 @@ This project studies marketing results from Facebook, Google, and LinkedIn, high
 ##Dataset Used
 - Dataser Used<a href=" https://github.com/Adnaan08-Analyst/Media_Analytics_Data_Analysis/blob/main/data%20of%20google.xlsx">View</a>
 - Dataser Used<a href=" https://github.com/Adnaan08-Analyst/Media_Analytics_Data_Analysis/blob/main/DATA%20of%20Facebook_Data.xlsx">View</a>
-- Dataser Used<a href="https://github.com/Adnaan08-Analyst/Media_Analytics_Data_Analysis/blob/main/data%20of%20Linkedin_Data.xlsx ">View</a>
+- Dataser Used<a href="https://github.com/Adnaan08-Analyst/Media_Analytics_Data_Analysis/blob/main/data%20of%20Linkedin_Data.xlsx">View</a>
 
 ## Questions ( Kpi  )
 - Which platform gives the highest engagement rate?
@@ -18,4 +18,14 @@ This project studies marketing results from Facebook, Google, and LinkedIn, high
 - Which ads perform best in terms of reach and frequency?
 - What budget allocation gives the strongest results?
 
-- Dashboard Innteraction<a href="
+- Dashboard Innteraction<a href="https://github.com/Adnaan08-Analyst/Media_Analytics_Data_Analysis/blob/main/media%20analytics.pbix">View</a>
+
+## Process
+- Imported raw data from all three marketing platforms.
+- Removed duplicates, fixed missing values, and standardized fields.
+- Selected important KPIs such as CTR, CPC, reach, and conversions.
+- Created platform-wise and campaign-wise visual reports.
+- Studied patterns in user engagement and spending.
+- Summarized key findings to guide campaign improvements and budget choices.
+
+  #

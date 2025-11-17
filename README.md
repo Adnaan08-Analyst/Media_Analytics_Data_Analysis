@@ -28,4 +28,20 @@ This project studies marketing results from Facebook, Google, and LinkedIn, high
 - Studied patterns in user engagement and spending.
 - Summarized key findings to guide campaign improvements and budget choices.
 
-  #
+## Dashboard
+<img width="1862" height="973" alt="Facebook media analytics" src="https://github.com/user-attachments/assets/1941e054-775c-4a15-8aac-d6743c9dda11" />
+<img width="1901" height="981" alt="Google media analytics" src="https://github.com/user-attachments/assets/f4b117d8-0c8a-4088-bac2-2eaee83f6063" />
+<img width="1880" height="918" alt="Linkedin Media Analytics" src="https://github.com/user-attachments/assets/cc75f864-3ab0-4a6c-b3d9-dbed25902c10" />
+
+## Project Insights 
+- Facebook delivered higher engagement but required consistent spending to maintain performance.
+- Google showed strong conversion potential with well-targeted campaigns.
+- LinkedIn performed best for professional audience reach but at a higher cost.
+- Campaigns with balanced frequency achieved better click-through results.
+- Ads with clear messaging and strong visuals received more interactions.
+- Budget distribution influenced overall performance across platforms.
+- Some campaigns had high impressions but low clicks, indicating a need for better targeting.
+- Conversion rates improved when spend aligned with peak audience activity times.
+
+  ## Final Conclusion
+  This project provides a clear view of marketing performance across platforms, helping identify strong campaigns, audience behavior patterns, and effective budget use. The insights support smarter decisions, improved targeting, and better overall campaign outcomes for future marketing efforts.
